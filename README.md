@@ -26,7 +26,7 @@ We start with a single stock (AAPL), scale up to all **S&P 500 tickers**, and bu
 - Interactive web app for filtering and exploring:
   - Model performance by sector, ticker, or strategy type
   - Metrics: Return %, Sharpe Ratio, Drawdown, Trade Count, Profit Factor, etc.
-- Easy local or cloud deployment via **Streamlit Cloud** or **Hugging Face Spaces**
+- Easy local or cloud deployment
 
 ---
 
